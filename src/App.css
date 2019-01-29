@@ -16,7 +16,7 @@ footer{
 .jumbotron{
     height: 300px;
     margin-top: 50px;
-    /* background-image: url("http://metaverso.club/wp-content/uploads/2018/09/black-and-white-geometric-wallpaper-white-geometric-wallpaper-modern-geometric-wallpaper-roll-for-walls-3-d-grid-waterproof-modern-wallpaper-geometric-white-geometric-wallpaper-black-and-white-geometr.jpg"); */
+    background: url("http://metaverso.club/wp-content/uploads/2018/09/black-and-white-geometric-wallpaper-white-geometric-wallpaper-modern-geometric-wallpaper-roll-for-walls-3-d-grid-waterproof-modern-wallpaper-geometric-white-geometric-wallpaper-black-and-white-geometr.jpg"); 
     font-weight: bold;
 }
 
