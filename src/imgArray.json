@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lozenge_-_black_simple.svg/768px-Lozenge_-_black_simple.svg.png",
+        "coNative": true
+    },
+    {
+        "id": 2,
+        "image": "https://cdn2.iconfinder.com/data/icons/interface-elements-i/512/Circle-512.png",
+        "coNative": true
+    },
+    {
+        "id": 3,
+        "image": "https://image.flaticon.com/icons/png/512/32/32425.png",
+        "coNative": true
+    },
+    {
+        "id": 4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dodecahedron_H3_projection.svg/360px-Dodecahedron_H3_projection.svg.png",
+        "coNative": true
+    },
+    {
+        "id": 5,
+        "image": "http://freevector.co/wp-content/uploads/2009/09/33848-rectangular-shape-outline.png",
+        "coNative": true
+    },
+    {
+        "id": 6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Alchemy_water_symbol.svg/768px-Alchemy_water_symbol.svg.png",
+        "coNative": true
+    },
+    {
+        "id": 7,
+        "image": "https://static.thenounproject.com/png/407533-200.png",
+        "coNative": true
+    },
+    {
+        "id": 8,
+        "image": "https://vignette.wikia.nocookie.net/unicode/images/8/8d/Big_Triangle_outline_shape.png/revision/latest?cb=20110301202612",
+        "coNative": false
+    },
+    {
+        "id": 9,
+        "image": "https://static.thenounproject.com/png/407537-200.png",
+        "coNative": true
+    },
+    {
+        "id": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dodecahedron_A2_projection.svg/320px-Dodecahedron_A2_projection.svg.png",
+        "coNative": true
+    },
+    {
+        "id": 11,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Silicate-tetrahedron-plan-view-2D.png",
+        "coNative": true
+    },
+    {
+        "id": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CubeAndStel.svg/398px-CubeAndStel.svg.png",
+        "coNative": true
+    }
+]

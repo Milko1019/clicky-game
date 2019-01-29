@@ -1,3 +1,8 @@
+Clicky-Game
+Click an shape to gain points, if you click the same shape your score will go back to zero.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
